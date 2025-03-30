@@ -1,3 +1,10 @@
+# Light Mode
+<img width="2089" alt="Screenshot 2025-03-30 at 5 42 22 PM" src="https://github.com/user-attachments/assets/6badf55f-447a-421a-9ee4-8665a3ec46eb" />
+
+# Dark Mode
+<img width="1985" alt="Screenshot 2025-03-30 at 5 51 39 PM" src="https://github.com/user-attachments/assets/ae17c3ee-7a8a-4b37-bd00-3fa2627c2624" />
+
+
 # Todo List Application
 
 This is a full-stack Todo List application built with React, Node.js, Express, and GraphQL. The application allows users to create, update, and delete todo items. It utilizes functional components, hooks, Redux, and the Context API for state management.
