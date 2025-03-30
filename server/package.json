@@ -1,0 +1,25 @@
+{
+  "name": "todo-app-server",
+  "version": "1.0.0",
+  "description": "Server for Todo App using Node, Express, and GraphQL",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "graphql-tag": "^2.12.6",
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
